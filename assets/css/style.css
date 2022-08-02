@@ -66,3 +66,10 @@ p {
 .para-2 a {
     color: #49c1a2;
 }
+
+.login-box {
+    width: 360px;
+    height: 280px;
+    margin: auto;
+    background-color: white;
+}
